@@ -1,0 +1,45 @@
+from multiprocessing.connection import answer_challenge
+from tkinter.tix import InputOnly
+
+
+print("main.py")
+print("Mark's quiz")
+
+playing = input("do you want to play? ")
+
+if answer_challenge == "yes"
+    print("welcome my friend ;) ")
+else:
+    if answer != "yes"
+        quit()
+
+answer = input("what does AU mean? ")
+
+if answer == "african union"
+    print("correct")
+else:
+    print("incorrect")
+
+answer = Input("what does cpu mean? ")
+
+if answer == "central processing unit"
+    print("correct")
+else:
+    print("incorrect")
+
+
+answer = input("how many fins does a fish have? ")
+
+if answer == "4"
+    print("correct")
+else:
+    print("incorrect")
+
+
+answer = input("how many tires does a car have? ")
+
+if answer == "4"
+    print("correct")
+else:
+    print("incorrect")
+
